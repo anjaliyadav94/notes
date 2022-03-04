@@ -1,1 +1,1 @@
-# notes
+pwd - print working directory
